@@ -55,7 +55,7 @@ These signals and components are interconnected in the `TopCPU` module, ensuring
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/risc-v-single-cycle-processor.git
+   git clone https://github.com/Seyed07/risc-v-single-cycle-processor.git
    ```
 2. Navigate to the project directory:
    ```bash
