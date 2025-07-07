@@ -3,7 +3,7 @@
 ## Overview
 This repository contains a VHDL implementation of a single-cycle RISC-V processor, designed to demonstrate fundamental computer architecture concepts. The processor executes a subset of RISC-V instructions, including R-type (ADD, SUB, AND, OR) and I-type (ADDI, ANDI, ORI, LW, SW), in a single clock cycle. The modular design ensures clarity and functionality, making it ideal for educational purposes.
 
-![Processor Data Path](./Structure.png)
+![Processor Data Path](./Str.png)
 ## Features
 - **Single-Cycle Architecture**: Executes each instruction in one clock cycle for simplicity and transparency.
 - **Core Components**:
